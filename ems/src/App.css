@@ -1,0 +1,66 @@
+.App {
+  text-align: center;
+  background-color: black;
+  height: 1000px;
+  width: auto;
+}
+
+.App-header {
+  background-color: #49cf76;
+  height: 60px;
+  padding: 5px;
+  color: rgb(243, 237, 237);
+}
+
+.App-title {
+  font-size: 1.5em;
+  color: black;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.loginForm{
+  padding: 50px;
+  margin: 0 auto;
+  height: 500px;
+  width: auto;
+  display: inline-block;
+  background-color: rgb(10, 10, 10);
+}
+
+.loginFormHeader{
+  color: brown;
+}
+
+.todoHeader{
+  font-size: 50px;
+  color: #49cf76;
+}
+
+
+.renderTodoList{
+  margin: 0 ,auto;
+  padding: 10px;
+}
+
+.centerAll{
+  text-align: center;
+}
+
+.addEmployeeForm{
+  margin: 0px 10px 10px 10px;
+}
+
+.table {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 20px;
+  background-color: #a5d6a7;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
